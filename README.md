@@ -20,12 +20,12 @@
 
 * refer to beaconcha.in status (and/or other explorers)
 
-* 12 minutes in, epoch 1 will conclude, but it's based on genesis
+* 12 minutes in, epoch 0 will conclude, but it's based on genesis
 
-* 24 minutes in, epoch 2 will justify
+* 24 minutes in, epoch 1 will justify
 
 * Monitor finalization percentage 
 
-* 36 minutes in, epoch 3 will justify
+* 36 minutes in, epoch 2 will justify
 
 * Wrap up includes a description of what happened and what it means for the future.
