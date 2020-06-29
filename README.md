@@ -20,12 +20,12 @@
 
 * refer to beaconcha.in status (and/or other explorers)
 
-* 12 minutes in, epoch 0 will conclude, but it's based on genesis
+* 6.4 minutes in, epoch 0 will conclude, but it's based on genesis
 
-* 24 minutes in, epoch 1 will justify
+* 12.8 minutes in, epoch 1 concludes, validator participation metrics become available.
 
-* Monitor finalization percentage 
+* 19.2 minutes, epoch 2 concludes, epoch justification begins with slot 64. 
 
-* 36 minutes in, epoch 2 will justify
+* 25.6 minutes in, epoch 3 finalized and should be justified, if this occurs than the launch can be considered successful.
 
 * Wrap up includes a description of what happened and what it means for the future.
